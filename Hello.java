@@ -5,5 +5,6 @@ public class Hello{
 	}
 
 Lenove modified!  hello hanchun！
+HELLO
 
 }
