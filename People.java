@@ -1,5 +1,5 @@
 public class People{
 
-  String name = "韩春";
+  String name = "我是A"`;
 
 }
